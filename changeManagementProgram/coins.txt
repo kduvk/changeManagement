@@ -1,0 +1,4 @@
+3
+Jones 50 cents in AU$
+Taylor 65 cents in US$
+Jones 50 cents in AU$
